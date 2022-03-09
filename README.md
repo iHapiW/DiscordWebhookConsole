@@ -3,8 +3,9 @@ Console for control Discord Webhooks. written in C++
 
 # About Project
 This is a C++ QT6 Console Application that interact with Discord Webhook API.
+![Application Work Proof](https://imgur.com/nZls3UQ.png)
 
-#Installation
+# Installation
 You can simply install release file, but if you want to build from source. go ahead clone repository with:
 ```
 git clone https://github.com/iHapiW/DiscordWebhookConsole
